@@ -6,5 +6,7 @@ This project is based on [gianlucamalato](https://github.com/gianlucamalato/mach
 
 # Usage
 The source code is in pricer_level_identifier. 
+
 Section 1 is the model for identifying price levels.
+
 Section 2 is the test cases of different models (fractals, K-means clustering, and fractals + K-means clustering) using S&P500 ETF data.
