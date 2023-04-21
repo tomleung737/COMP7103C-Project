@@ -5,7 +5,7 @@ COMP7103C Project -- Identify Support and Resistance Levels for the Stock
 This project is based on [gianlucamalato](https://github.com/gianlucamalato/machinelearning/blob/master/Support_and_resistance.ipynb) and [judopro](https://github.com/judopro/Stock_Support_Resistance_ML) github repository.
 
 # Usage
-The source code is in pricer_level_identifier. 
+The source code is in price_level_identifier.ipynb. 
 
 Section 1 is the model for identifying price levels.
 
